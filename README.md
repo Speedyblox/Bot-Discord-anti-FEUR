@@ -4,7 +4,7 @@ Sûrement la blague la plus lourde de tout internet!
 Vötre communauté ne fait que troll tout le monde avec? Pas de problème, le bot anti feur pour Discord est là!
 
 ## Intallation
-Il est recommanddé de le lancer sur un serveur Linux.
+Il est recommandé de le lancer sur un serveur Linux.
 Pour le lancer:
 ```
 python3 index.py
