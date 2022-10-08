@@ -1,22 +1,24 @@
-# Bot-Discord-anti-FEUR
+# Bot Discord anti FEUR
 "Quoi?... FEUR!"
-Sûrement la blague la plus lourde de tout internet!
-Vötre communauté ne fait que troll tout le monde avec? Pas de problème, le bot anti feur pour Discord est là!
+Sûrement la blague la plus lourde de tout internet !
+Vôtre communauté ne fait que troll tout le monde avec ? Pas de problème, le bot anti feur pour Discord est là !
 
-## Intallation
+## Installation
 Il est recommandé de le lancer sur un serveur Linux.
-Pour le lancer:
+Téléchargez le dossier, puis ajoutez dans la dernière ligne la clé privée **à ne communiquer à personne** entre les guillemets :
+```
+client.run("CLÉ_PRIVÉE"); # Remplacer 'CLÉ_PRIVÉE' par votre clé à vous
+```
+
+## Lancement
+Pour le lancer :
 ```
 python3 index.py
 ```
-Commande screen pour le lancer en arrière plan:
-```
-screen -S discord-bot-anti-feur
-```
+Il est recommandé de lancer **screen** pour faire tourner le programme en arrière plan.
 
 ## Crédits
-Ce bot a été crée par le youtubeur Speedyblox.
-Lien de la chaine: https://youtube.com/Speedyblox/?sub_confirmation=1
+Ce bot a été crée par le youtubeur [Speedyblox](https://youtube.com/Speedyblox/?sub_confirmation=1).
 
 ## 
 ![Bot anti feur](https://raw.githubusercontent.com/Speedyblox/Bot-Discord-anti-FEUR/main/img/answer.png)
