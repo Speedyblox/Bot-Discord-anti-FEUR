@@ -42,4 +42,6 @@ async def on_message(message):
             
             print("{0.author.mention} a été trollé!".format(message));
             break;
-client.run("CLÉ_PRIVÉE");
+
+
+client.run("CLÉ_PRIVÉE"); # Remplacer 'CLÉ_PRIVÉE' par votre clé à vous
